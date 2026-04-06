@@ -17,3 +17,17 @@
 
 🎯 Goal:
 To become a skilled Cloud & DevOps Engineer and work on real-world infrastructure projects.
+## 🔧 Skills
+
+- ☁️ AWS: EC2, S3, IAM, VPC (Learning)
+- 🐧 Linux: Basic Administration
+- 🔁 DevOps: Git, GitHub, CI/CD (Learning)
+- 📦 Tools: VS Code, Git
+
+- ## 📂 Projects (In Progress 🚀)
+
+- AWS EC2 Web Server (Coming Soon)
+- S3 Static Website (Coming Soon)
+- VPC Setup (Coming Soon)
+- CI/CD Pipeline (Coming Soon)
+

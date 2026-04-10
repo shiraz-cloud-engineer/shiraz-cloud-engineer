@@ -2,32 +2,55 @@
 
 🚀 Aspiring Cloud & DevOps Engineer  
 ☁️ Passionate about AWS, Linux & Automation  
-📍 Hyderabad, India  
+📍 Hyderabad, India
 
 ---
 
-🔭 Currently working on:
-- AWS Cloud Projects  
-- Linux Administration  
-- DevOps Tools  
+## 🔭 What I'm Working On
 
-🌱 Currently learning:
-- AWS (EC2, S3, VPC, IAM)  
-- Docker & CI/CD  
+- Building hands-on AWS cloud projects
+- Learning Linux administration & server management
+- Exploring DevOps tools and CI/CD pipelines
 
-🎯 Goal:
+---
+
+## 🌱 Currently Learning
+
+- AWS Core Services — EC2, S3, VPC, IAM, CloudWatch
+- Docker & Containerization
+- CI/CD with GitHub Actions
+
+---
+
+## 🎯 Goal
+
 To become a skilled Cloud & DevOps Engineer and work on real-world infrastructure projects.
+
+---
+
 ## 🔧 Skills
 
-- ☁️ AWS: EC2, S3, IAM, VPC (Learning)
-- 🐧 Linux: Basic Administration
-- 🔁 DevOps: Git, GitHub, CI/CD (Learning)
-- 📦 Tools: VS Code, Git
+| Area | Technologies |
+|------|-------------|
+| ☁️ Cloud | AWS (EC2, S3, IAM, VPC, CloudWatch) |
+| 🐧 Linux | Ubuntu, Bash, Server Administration |
+| 🔁 DevOps | Git, GitHub, CI/CD (Learning) |
+| 📦 Tools | VS Code, SSH, CloudWatch Agent |
 
-- ## 📂 Projects (In Progress 🚀)
+---
 
-- AWS EC2 Web Server (Coming Soon)
-- S3 Static Website (Coming Soon)
-- VPC Setup (Coming Soon)
-- CI/CD Pipeline (Coming Soon)
+## 📂 Projects
 
+| Project | Description | Status |
+|---------|-------------|--------|
+| [AWS Cloud Projects](https://github.com/shiraz-cloud-engineer/aws-cloud-projects) | Hands-on AWS projects — EC2, CloudWatch & more | 🚀 In Progress |
+
+---
+
+## 📊 GitHub Stats
+
+![Shiraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiraz-cloud-engineer&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+> 💡 *"Learning by building — one project at a time."*
